@@ -11,8 +11,12 @@ I have hands-on experience with core basics and methodologies, including:
 - **Linux environments** for offensive security labs  
 - **Virtualization & Containers** (VirtualBox, Docker) to design isolated testing networks
 
+## WriteUps
+https://writeups-r4ul7t0.notion.site/LABS-1c73f51303db804fa8d2e90464c2c29b
+
 **Additonal**
-- Ha$h Cracking 
+- Ha$h Cracking
+- O$INT
 
 ## What I Do
 - Build and configure lab networks for Red Team exercises.  
