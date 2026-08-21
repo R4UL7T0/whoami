@@ -5,7 +5,7 @@ Hi I'm Raúl, Cybersecurity Consultant and Computer Systems and Software Develop
 
 
 ## Technology 
-https://writeups-r4ul7t0.notion.site/My-Technology-1c73f51303db804fa8d2e90464c2c29b?source=copy_link
+https://writeups-r4ul7t0.notion.site/My-Technology
 
 **Additonal**
 - Ha$h Cracking
