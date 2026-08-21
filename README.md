@@ -14,5 +14,5 @@ I'm Raúl, Cybersecurity Student. Learning with **corporate cybersecurity red te
 
 [Here](https://writeups-r4ul7t0.notion.site/My-Technology-1c73f51303db804fa8d2e90464c2c29b?source=copy_link)
 
-## Philosophy?
+## Philosophy
 Practical purposes. 
