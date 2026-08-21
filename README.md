@@ -5,6 +5,8 @@ I'm Raúl, Cybersecurity Student. Learning with **corporate cybersecurity red te
 ## Better Decisions?
 Discover powerful **Open Source Intelligence** insights. **My work** uncovers valuable information, connections, and opportunities to help you and your company make smarter and faster decisions.
 
+[Contact](https://www.linkedin.com/in/ra%C3%BAl-barba-3b61173b9/?locale=en-US)
+
 ## What I Do
 - Build and configure lab networks.  
 - Perform vulnerability assessments and testing for your company. 
