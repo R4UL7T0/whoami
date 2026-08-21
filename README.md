@@ -1,8 +1,6 @@
 ## What do you imagine when you hear these words? Confusion, Entropy and Complexity?
 
-Hi I'm Raúl, Cybersecurity Consultant and Computer Systems and Software Development Student. My focus is **corporate cybersecurity red teams**. My work focuses on simulating adversarial techniques to strengthen security posture on your company and uncover vulnerabilities before real attackers do.
-
-
+I'm Raúl, Cybersecurity Student. My focus is **corporate cybersecurity red teams**.
 
 ## Technology 
 https://writeups-r4ul7t0.notion.site/My-Technology
