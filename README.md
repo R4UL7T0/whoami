@@ -2,9 +2,8 @@
 
 I'm Raúl, Cybersecurity Student. Learning with **corporate cybersecurity red teams**.
 
-**Work**
-- Ha$h Cracking
-- O$INT
+## Better Decisions?
+Discover powerful **Open Source Intelligence** insights. **My work** uncovers valuable information, connections, and opportunities to help you and your company make smarter and faster decisions.
 
 ## What I Do
 - Build and configure lab networks.  
