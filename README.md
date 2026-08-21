@@ -2,7 +2,7 @@
 
 I'm Raúl, Cybersecurity Student. Learning with **corporate cybersecurity red teams**.
 
-**Additonal**
+**Work**
 - Ha$h Cracking
 - O$INT
 
