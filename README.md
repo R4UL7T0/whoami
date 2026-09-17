@@ -1,6 +1,6 @@
 ## What do you imagine when you hear these words? Confusion, Entropy and Complexity?
 
-I'm Raúl, Cybersecurity Student. Learning with **corporate cybersecurity red teams**.
+I'm Raúl, Cybersecurity Specialist.
 
 ## Better Decisions?
 Discover powerful **Open Source Intelligence** insights. **My work** uncovers valuable information, connections, and opportunities to help you and your company make smarter and faster decisions.
