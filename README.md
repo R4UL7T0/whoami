@@ -3,7 +3,7 @@
 I'm Raúl, Cybersecurity Specialist.
 
 ## Better Decisions?
-Discover powerful **Open Source Intelligence** insights. **My work** uncovers valuable information, connections, and opportunities to help you and your company make smarter and faster decisions.
+Discover powerful automation and cybersecurity solutions. My work combines intelligent automation, security practices, and technical analysis to identify risks, streamline processes, and build more secure and efficient systems—helping you and your company make smarter, faster, and safer decisions.
 
 [Contact](https://www.linkedin.com/in/ra%C3%BAl-barba-3b61173b9/?locale=en-US)
 
